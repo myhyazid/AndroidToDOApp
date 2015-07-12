@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <!--We will be using the toolbar so no need to show ActionBar-->
+        <item name="android:windowActionBar">false</item>
+        <!-- Set theme colors from http://www.google.com/design/spec/style/color.html#color-color-palette-->
+        <!-- colorPrimary is used for the default action bar background -->
+        <item name="colorPrimary" type="color">#4CAF50</item>
+        <item name="android:textColorPrimary" type="color">#fff</item>
+        <item name="android:editTextColor" type="color">#00C853</item>
+        <item name="colorPrimaryDark" type="color">#00C853</item>
+        <item name="android:textColor" type="color">#00C853</item>
+        <item name="colorAccent" type="color">#A5D6A7</item>
+    </style>
+
+
+</resources>
